@@ -11,6 +11,10 @@
     - Allowed the model to focus on shorter patterns within each genre, making it more adaptable and capable of generalizing across different musical samples.
 Each 3-second segment was then used as an individual data point for training. The segmentation also enables the model to learn short-term characteristics, which are often more genre-specific than longer, blended soundscapes.
 
+## Access:
+
+The dataset can be accessed [here](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)
+
 
 
 
