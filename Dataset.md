@@ -13,7 +13,9 @@ Each 3-second segment was then used as an individual data point for training. Th
 
 ## Access:
 
-The dataset can be accessed [here](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)
+The dataset can be downloaded from [here](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)
+
+Or instead of downloading, the dataset can directly be accessed in python. Refer to [this site](https://datasets.activeloop.ai/docs/ml/datasets/gtzan-genre-dataset/)
 
 
 
